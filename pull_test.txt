@@ -1,2 +1,2 @@
 123
-walkthrough on pull request approval and merge
+approve pull request
