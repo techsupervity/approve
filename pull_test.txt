@@ -1,2 +1,2 @@
 123456
-A file for approve pull request.
+A file for approving the pull request.
