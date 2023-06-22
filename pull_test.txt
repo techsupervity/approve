@@ -1,3 +1,2 @@
 123
-A file for pull request testing.
-approve pull request
+A file for approve pull request
