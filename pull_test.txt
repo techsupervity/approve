@@ -1,2 +1,2 @@
 
-A file for approving the pull request.
+A file for approving and merging the pull request.
